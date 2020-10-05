@@ -7,6 +7,9 @@ function onReady(){
 
 function generate() {
     console.log('git generate');
+    $("#boxContainer").append(`
+        <div>a</div>
+    `)
 }
 
 console.log('hi');
