@@ -23,11 +23,14 @@ function generate() {
 
 function yellow() {
     console.log('hi from yellow');
+    $(this).closest('div').addClass('yellow');
     
 }
 
 function deleteFunction() {
     console.log('hi from delete');
+    $(this).closest('div').remove();
+
     
 }
 
