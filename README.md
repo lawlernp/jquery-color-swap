@@ -24,7 +24,7 @@ There is a gif below that shows what these instructions ask you to build.
 
 Follow the steps below to complete the code challenge:
 
-1. Create a `<button>` element on the DOM, you may do this in jQuery, or write it directly in the HTML code. Have the button text read "Generate". 
+1.- Create a `<button>` element on the DOM, you may do this in jQuery, or write it directly in the HTML code. Have the button text read "Generate". 
 
 2. Using jQuery, append a `<div>` element when you click the button. It should append a new div each time you click the button.
 
